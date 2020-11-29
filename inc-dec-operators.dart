@@ -3,5 +3,9 @@ void main() {
   int y = x++;
   int z = --y;
 
+  int a = 1;
+
+  print(a);
+
   print('x: $x Y: $y Z: $z');
 }
