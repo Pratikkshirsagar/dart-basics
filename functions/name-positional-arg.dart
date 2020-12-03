@@ -1,5 +1,3 @@
-import 'function.dart';
-
 void main() {
   final person = describe(name: 'Pratik', age: 25);
   print(person);
